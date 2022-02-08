@@ -30,7 +30,7 @@
   ---
   
    <a href="https://github.com/RyeBread123/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=RyeBread123&show_icons=true&count_private=true&theme=dracula" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=RyeBread123&show_icons=true&count_private=true&theme=highcontrast" />
 </a>
 
 <!--
