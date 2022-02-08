@@ -1,4 +1,4 @@
-### < Hello World 👋 >  
+### Welcome!
 
 #### Hi, I'm Ryder Wendt, a passionate full stack web developer from California, currently in Maine. 
 
