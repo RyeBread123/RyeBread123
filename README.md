@@ -1,4 +1,10 @@
-### Hi there 👋
+### < Hello World 👋 >  
+
+#### Hi, I'm Ryder Wendt, a passionate full stack web developer from California, currently in Maine. 
+
+---
+
+### < Technologies >
 
 <span>
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" width="90px" height="25px">
@@ -20,6 +26,8 @@
 <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" width="90px" height="25px">
 <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" width="90px" height="25px">
 <img src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" width="90px" height="25px">
+  
+  ---
 
 <!--
 **RyeBread123/RyeBread123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
